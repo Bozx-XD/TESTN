@@ -421,10 +421,10 @@ class Main:
 			exit()
 		elif baloch in ["2", "02"]:
 			print("    CHAL BAGH 🤭")
-			os.system("xdg-open http://Wa.me/+923017787729")
+			os.system("xdg-open ")
 			exit()
 		elif baloch in ["1", "01"]:
-			os.system("xdg-open https://youtube.com/channel/UCPErGt_PlIcbobfyCwle9HA")
+			os.system("xdg-open https://youtube.com/@zorox-ffx533")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;37m    Type Your Channel Name")
